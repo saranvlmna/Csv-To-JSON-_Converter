@@ -1,18 +1,18 @@
-CsvToJson
+## CsvToJson
 
-Usage
+## Usage
 this app purpose convert csv file to json
 
-description
+## Description
 insert your  csv file './src/csv' then continew
 
-install
+## install
 npm i
 
-start
+## start
 npm run start
 
-author
+## author
 Saranjith P visit: https://sarancom.web.app/
 
 Thanks for using this app

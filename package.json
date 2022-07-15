@@ -1,14 +1,33 @@
 {
-  "name": "botdevtestt",
+  "name": "csvtojson",
   "version": "1.0.0",
-  "description": "Dev oops bot",
-  "main": "index.js",
+  "description": "CSVTOJSON",
+  "main": "app.js",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "csvtojson": "^2.0.10",
+    "lodash": "^4.17.21",
+    "is-utf8": "^0.2.1",
+    "strip-bom": "^2.0.0"
+  },
+  "devDependencies": {},
   "scripts": {
+    "dev": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "saran_vlmna",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saranvlmna/CsvToJson.git"
+  },
+  "keywords": [
+    "CSV",
+    "To",
+    "JSON"
+  ],
+  "author": "Saranjith P",
   "license": "ISC",
-  "dependencies": {
-    "csvtojson": "^2.0.10"
-  }
+  "bugs": {
+    "url": "https://github.com/saranvlmna/CsvToJson/issues"
+  },
+  "homepage": "https://github.com/saranvlmna/CsvToJson#readme"
 }
