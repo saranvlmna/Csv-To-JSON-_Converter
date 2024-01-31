@@ -1,428 +1,426 @@
 [
-    {
-        "customerId": "C03x621wx",
-        "subscriptionId": "3440569412",
-        "skuId": "1010020027",
-        "creationTime": "1641289151522",
-        "kind": "reseller#subscription",
-        "seats": {
-            "maximumNumberOfSeats": 300,
-            "licensedNumberOfSeats": 51,
-            "kind": "subscriptions#seats"
-        },
-        "status": "ACTIVE",
-        "resourceUiUrl": "https://admin.google.com/ac/billing/subscriptions?ecid=C03x621wx",
-        "billingMethod": "ONLINE",
-        "customerDomain": "pharmasolutions-int.com",
-        "skuName": "Google Workspace Business Starter",
-        "plan": {
-            "planName": "FLEXIBLE",
-            "isCommitmentPlan": false
-        },
-        "trialSettings": {
-            "isInTrial": false
-        }
+  {
+    "customerId": "C03x621wx",
+    "subscriptionId": "3440569412",
+    "skuId": "1010020027",
+    "creationTime": "1641289151522",
+    "kind": "reseller#subscription",
+    "seats": {
+      "maximumNumberOfSeats": 300,
+      "licensedNumberOfSeats": 51,
+      "kind": "subscriptions#seats"
     },
-    {
-        "customerId": "C03x621wx",
-        "subscriptionId": "3457637756",
-        "skuId": "Google-Drive-storage-16TB",
-        "creationTime": "1641806574064",
-        "kind": "reseller#subscription",
-        "seats": {
-            "maximumNumberOfSeats": 1,
-            "licensedNumberOfSeats": 0,
-            "kind": "subscriptions#seats"
-        },
-        "status": "ACTIVE",
-        "resourceUiUrl": "https://admin.google.com/ac/billing/subscriptions?ecid=C03x621wx",
-        "billingMethod": "ONLINE",
-        "customerDomain": "pharmasolutions-int.com",
-        "skuName": "Google Drive storage 16 TB",
-        "plan": {
-            "planName": "FLEXIBLE",
-            "isCommitmentPlan": false
-        },
-        "trialSettings": {
-            "isInTrial": false
-        }
+    "status": "ACTIVE",
+    "resourceUiUrl": "https://admin.google.com/ac/billing/subscriptions?ecid=C03x621wx",
+    "billingMethod": "ONLINE",
+    "customerDomain": "pharmasolutions-int.com",
+    "skuName": "Google Workspace Business Starter",
+    "plan": {
+      "planName": "FLEXIBLE",
+      "isCommitmentPlan": false
     },
-    {
-        "customerId": "C03x621wx",
-        "subscriptionId": "3457637638",
-        "skuId": "Google-Drive-storage-1TB",
-        "creationTime": "1641806573875",
-        "kind": "reseller#subscription",
-        "seats": {
-            "maximumNumberOfSeats": 1,
-            "licensedNumberOfSeats": 0,
-            "kind": "subscriptions#seats"
-        },
-        "status": "ACTIVE",
-        "resourceUiUrl": "https://admin.google.com/ac/billing/subscriptions?ecid=C03x621wx",
-        "billingMethod": "ONLINE",
-        "customerDomain": "pharmasolutions-int.com",
-        "skuName": "Google Drive storage 1 TB",
-        "plan": {
-            "planName": "FLEXIBLE",
-            "isCommitmentPlan": false
-        },
-        "trialSettings": {
-            "isInTrial": false
-        }
-    },
-    {
-        "customerId": "C03x621wx",
-        "subscriptionId": "3457637595",
-        "skuId": "Google-Drive-storage-200GB",
-        "creationTime": "1641806573747",
-        "kind": "reseller#subscription",
-        "seats": {
-            "maximumNumberOfSeats": 1,
-            "licensedNumberOfSeats": 0,
-            "kind": "subscriptions#seats"
-        },
-        "status": "ACTIVE",
-        "resourceUiUrl": "https://admin.google.com/ac/billing/subscriptions?ecid=C03x621wx",
-        "billingMethod": "ONLINE",
-        "customerDomain": "pharmasolutions-int.com",
-        "skuName": "Google Drive storage 200 GB",
-        "plan": {
-            "planName": "FLEXIBLE",
-            "isCommitmentPlan": false
-        },
-        "trialSettings": {
-            "isInTrial": false
-        }
-    },
-    {
-        "customerId": "C03x621wx",
-        "subscriptionId": "3457637531",
-        "skuId": "Google-Drive-storage-20GB",
-        "creationTime": "1641806573631",
-        "kind": "reseller#subscription",
-        "seats": {
-            "maximumNumberOfSeats": 1,
-            "licensedNumberOfSeats": 0,
-            "kind": "subscriptions#seats"
-        },
-        "status": "ACTIVE",
-        "resourceUiUrl": "https://admin.google.com/ac/billing/subscriptions?ecid=C03x621wx",
-        "billingMethod": "ONLINE",
-        "customerDomain": "pharmasolutions-int.com",
-        "skuName": "Google Drive storage 20 GB",
-        "plan": {
-            "planName": "FLEXIBLE",
-            "isCommitmentPlan": false
-        },
-        "trialSettings": {
-            "isInTrial": false
-        }
-    },
-    {
-        "customerId": "C03x621wx",
-        "subscriptionId": "3457637490",
-        "skuId": "Google-Drive-storage-2TB",
-        "creationTime": "1641806573579",
-        "kind": "reseller#subscription",
-        "seats": {
-            "maximumNumberOfSeats": 1,
-            "licensedNumberOfSeats": 0,
-            "kind": "subscriptions#seats"
-        },
-        "status": "ACTIVE",
-        "resourceUiUrl": "https://admin.google.com/ac/billing/subscriptions?ecid=C03x621wx",
-        "billingMethod": "ONLINE",
-        "customerDomain": "pharmasolutions-int.com",
-        "skuName": "Google Drive storage 2 TB",
-        "plan": {
-            "planName": "FLEXIBLE",
-            "isCommitmentPlan": false
-        },
-        "trialSettings": {
-            "isInTrial": false
-        }
-    },
-    {
-        "customerId": "C03x621wx",
-        "subscriptionId": "3457637627",
-        "skuId": "Google-Drive-storage-400GB",
-        "creationTime": "1641806573807",
-        "kind": "reseller#subscription",
-        "seats": {
-            "maximumNumberOfSeats": 1,
-            "licensedNumberOfSeats": 1,
-            "kind": "subscriptions#seats"
-        },
-        "status": "ACTIVE",
-        "resourceUiUrl": "https://admin.google.com/ac/billing/subscriptions?ecid=C03x621wx",
-        "billingMethod": "ONLINE",
-        "customerDomain": "pharmasolutions-int.com",
-        "skuName": "Google Drive storage 400 GB",
-        "plan": {
-            "planName": "FLEXIBLE",
-            "isCommitmentPlan": false
-        },
-        "trialSettings": {
-            "isInTrial": false
-        }
-    },
-    {
-        "customerId": "C03x621wx",
-        "subscriptionId": "3457637694",
-        "skuId": "Google-Drive-storage-4TB",
-        "creationTime": "1641806573946",
-        "kind": "reseller#subscription",
-        "seats": {
-            "maximumNumberOfSeats": 1,
-            "licensedNumberOfSeats": 0,
-            "kind": "subscriptions#seats"
-        },
-        "status": "ACTIVE",
-        "resourceUiUrl": "https://admin.google.com/ac/billing/subscriptions?ecid=C03x621wx",
-        "billingMethod": "ONLINE",
-        "customerDomain": "pharmasolutions-int.com",
-        "skuName": "Google Drive storage 4 TB",
-        "plan": {
-            "planName": "FLEXIBLE",
-            "isCommitmentPlan": false
-        },
-        "trialSettings": {
-            "isInTrial": false
-        }
-    },
-    {
-        "customerId": "C03x621wx",
-        "subscriptionId": "3457637563",
-        "skuId": "Google-Drive-storage-50GB",
-        "creationTime": "1641806573689",
-        "kind": "reseller#subscription",
-        "seats": {
-            "maximumNumberOfSeats": 1,
-            "licensedNumberOfSeats": 0,
-            "kind": "subscriptions#seats"
-        },
-        "status": "ACTIVE",
-        "resourceUiUrl": "https://admin.google.com/ac/billing/subscriptions?ecid=C03x621wx",
-        "billingMethod": "ONLINE",
-        "customerDomain": "pharmasolutions-int.com",
-        "skuName": "Google Drive storage 50 GB",
-        "plan": {
-            "planName": "FLEXIBLE",
-            "isCommitmentPlan": false
-        },
-        "trialSettings": {
-            "isInTrial": false
-        }
-    },
-    {
-        "customerId": "C03x621wx",
-        "subscriptionId": "3457637727",
-        "skuId": "Google-Drive-storage-8TB",
-        "creationTime": "1641806574002",
-        "kind": "reseller#subscription",
-        "seats": {
-            "maximumNumberOfSeats": 1,
-            "licensedNumberOfSeats": 0,
-            "kind": "subscriptions#seats"
-        },
-        "status": "ACTIVE",
-        "resourceUiUrl": "https://admin.google.com/ac/billing/subscriptions?ecid=C03x621wx",
-        "billingMethod": "ONLINE",
-        "customerDomain": "pharmasolutions-int.com",
-        "skuName": "Google Drive storage 8 TB",
-        "plan": {
-            "planName": "FLEXIBLE",
-            "isCommitmentPlan": false
-        },
-        "trialSettings": {
-            "isInTrial": false
-        }
-    },
-    {
-        "customerId": "C025pumdf",
-        "subscriptionId": "162763621",
-        "skuId": "Google-Apps-Unlimited",
-        "creationTime": "1498523240826",
-        "kind": "reseller#subscription",
-        "seats": {
-            "maximumNumberOfSeats": 24,
-            "licensedNumberOfSeats": 24,
-            "kind": "subscriptions#seats"
-        },
-        "status": "ACTIVE",
-        "resourceUiUrl": "https://admin.google.com/ac/billing/subscriptions?ecid=C025pumdf",
-        "billingMethod": "ONLINE",
-        "customerDomain": "resnetworld.com",
-        "skuName": "G Suite Business",
-        "plan": {
-            "planName": "FLEXIBLE",
-            "isCommitmentPlan": false
-        },
-        "trialSettings": {
-            "isInTrial": false
-        }
-    },
-    {
-        "customerId": "C03vrcw5n",
-        "subscriptionId": "2107104363",
-        "skuId": "Google-Apps-For-Business",
-        "creationTime": "1603444523441",
-        "kind": "reseller#subscription",
-        "seats": {
-            "maximumNumberOfSeats": 3,
-            "licensedNumberOfSeats": 3,
-            "kind": "subscriptions#seats"
-        },
-        "status": "ACTIVE",
-        "resourceUiUrl": "https://admin.google.com/ac/billing/subscriptions?ecid=C03vrcw5n",
-        "billingMethod": "ONLINE",
-        "customerDomain": "ferguae.org",
-        "skuName": "G Suite Basic",
-        "plan": {
-            "planName": "FLEXIBLE",
-            "isCommitmentPlan": false
-        },
-        "trialSettings": {
-            "isInTrial": false
-        }
-    },
-    {
-        "customerId": "C0217642k",
-        "subscriptionId": "97364743",
-        "skuId": "Google-Apps-For-Business",
-        "creationTime": "1494679746869",
-        "kind": "reseller#subscription",
-        "seats": {
-            "maximumNumberOfSeats": 2,
-            "licensedNumberOfSeats": 2,
-            "kind": "subscriptions#seats"
-        },
-        "status": "SUSPENDED",
-        "resourceUiUrl": "https://admin.google.com/ac/billing/subscriptions?ecid=C0217642k",
-        "billingMethod": "ONLINE",
-        "suspensionReasons": [
-            "RESELLER_INITIATED"
-        ],
-        "customerDomain": "ghh-mail.com",
-        "skuName": "G Suite Basic",
-        "plan": {
-            "planName": "FLEXIBLE",
-            "isCommitmentPlan": false
-        },
-        "trialSettings": {
-            "isInTrial": false
-        }
-    },
-    {
-        "customerId": "C02a9525a",
-        "subscriptionId": "3443277226",
-        "skuId": "1010020027",
-        "creationTime": "1641367472184",
-        "kind": "reseller#subscription",
-        "seats": {
-            "numberOfSeats": 300,
-            "maximumNumberOfSeats": 10000000,
-            "licensedNumberOfSeats": 300,
-            "kind": "subscriptions#seats"
-        },
-        "renewalSettings": {
-            "renewalType": "AUTO_RENEW",
-            "kind": "subscriptions#renewalSettings"
-        },
-        "status": "ACTIVE",
-        "resourceUiUrl": "https://admin.google.com/ac/billing/subscriptions?ecid=C02a9525a",
-        "billingMethod": "OFFLINE",
-        "customerDomain": "freshalicious.in",
-        "skuName": "Google Workspace Business Starter",
-        "plan": {
-            "planName": "ANNUAL",
-            "isCommitmentPlan": true
-        },
-        "trialSettings": {
-            "isInTrial": false
-        }
-    },
-    {
-        "customerId": "C02a9525a",
-        "subscriptionId": "3443367502",
-        "skuId": "1010020026",
-        "creationTime": "1641367428469",
-        "kind": "reseller#subscription",
-        "seats": {
-            "numberOfSeats": 185,
-            "maximumNumberOfSeats": 10000000,
-            "licensedNumberOfSeats": 1,
-            "kind": "subscriptions#seats"
-        },
-        "renewalSettings": {
-            "renewalType": "AUTO_RENEW",
-            "kind": "subscriptions#renewalSettings"
-        },
-        "status": "ACTIVE",
-        "resourceUiUrl": "https://admin.google.com/ac/billing/subscriptions?ecid=C02a9525a",
-        "billingMethod": "OFFLINE",
-        "customerDomain": "freshalicious.in",
-        "skuName": "Google Workspace Enterprise Standard",
-        "plan": {
-            "planName": "ANNUAL",
-            "isCommitmentPlan": true
-        },
-        "trialSettings": {
-            "isInTrial": false
-        }
-    },
-    {
-        "customerId": "C02a9525a",
-        "subscriptionId": "3739396120",
-        "skuId": "1010020029",
-        "creationTime": "1649778901867",
-        "kind": "reseller#subscription",
-        "seats": {
-            "numberOfSeats": 205,
-            "maximumNumberOfSeats": 10000000,
-            "licensedNumberOfSeats": 183,
-            "kind": "subscriptions#seats"
-        },
-        "renewalSettings": {
-            "renewalType": "AUTO_RENEW",
-            "kind": "subscriptions#renewalSettings"
-        },
-        "status": "ACTIVE",
-        "resourceUiUrl": "https://admin.google.com/ac/billing/subscriptions?ecid=C02a9525a",
-        "billingMethod": "OFFLINE",
-        "customerDomain": "freshalicious.in",
-        "skuName": "Google Workspace Enterprise Starter",
-        "plan": {
-            "planName": "ANNUAL",
-            "isCommitmentPlan": true
-        },
-        "trialSettings": {
-            "isInTrial": false
-        }
-    },
-    {
-        "customerId": "C035e6t8p",
-        "subscriptionId": "3371735374",
-        "skuId": "1010020027",
-        "creationTime": "1638956330700",
-        "kind": "reseller#subscription",
-        "seats": {
-            "maximumNumberOfSeats": 300,
-            "licensedNumberOfSeats": 8,
-            "kind": "subscriptions#seats"
-        },
-        "status": "ACTIVE",
-        "resourceUiUrl": "https://admin.google.com/ac/billing/subscriptions?ecid=C035e6t8p",
-        "billingMethod": "ONLINE",
-        "customerDomain": "investouae.com",
-        "skuName": "Google Workspace Business Starter",
-        "plan": {
-            "planName": "FLEXIBLE",
-            "isCommitmentPlan": false
-        },
-        "trialSettings": {
-            "isInTrial": false
-        }
+    "trialSettings": {
+      "isInTrial": false
     }
+  },
+  {
+    "customerId": "C03x621wx",
+    "subscriptionId": "3457637756",
+    "skuId": "Google-Drive-storage-16TB",
+    "creationTime": "1641806574064",
+    "kind": "reseller#subscription",
+    "seats": {
+      "maximumNumberOfSeats": 1,
+      "licensedNumberOfSeats": 0,
+      "kind": "subscriptions#seats"
+    },
+    "status": "ACTIVE",
+    "resourceUiUrl": "https://admin.google.com/ac/billing/subscriptions?ecid=C03x621wx",
+    "billingMethod": "ONLINE",
+    "customerDomain": "pharmasolutions-int.com",
+    "skuName": "Google Drive storage 16 TB",
+    "plan": {
+      "planName": "FLEXIBLE",
+      "isCommitmentPlan": false
+    },
+    "trialSettings": {
+      "isInTrial": false
+    }
+  },
+  {
+    "customerId": "C03x621wx",
+    "subscriptionId": "3457637638",
+    "skuId": "Google-Drive-storage-1TB",
+    "creationTime": "1641806573875",
+    "kind": "reseller#subscription",
+    "seats": {
+      "maximumNumberOfSeats": 1,
+      "licensedNumberOfSeats": 0,
+      "kind": "subscriptions#seats"
+    },
+    "status": "ACTIVE",
+    "resourceUiUrl": "https://admin.google.com/ac/billing/subscriptions?ecid=C03x621wx",
+    "billingMethod": "ONLINE",
+    "customerDomain": "pharmasolutions-int.com",
+    "skuName": "Google Drive storage 1 TB",
+    "plan": {
+      "planName": "FLEXIBLE",
+      "isCommitmentPlan": false
+    },
+    "trialSettings": {
+      "isInTrial": false
+    }
+  },
+  {
+    "customerId": "C03x621wx",
+    "subscriptionId": "3457637595",
+    "skuId": "Google-Drive-storage-200GB",
+    "creationTime": "1641806573747",
+    "kind": "reseller#subscription",
+    "seats": {
+      "maximumNumberOfSeats": 1,
+      "licensedNumberOfSeats": 0,
+      "kind": "subscriptions#seats"
+    },
+    "status": "ACTIVE",
+    "resourceUiUrl": "https://admin.google.com/ac/billing/subscriptions?ecid=C03x621wx",
+    "billingMethod": "ONLINE",
+    "customerDomain": "pharmasolutions-int.com",
+    "skuName": "Google Drive storage 200 GB",
+    "plan": {
+      "planName": "FLEXIBLE",
+      "isCommitmentPlan": false
+    },
+    "trialSettings": {
+      "isInTrial": false
+    }
+  },
+  {
+    "customerId": "C03x621wx",
+    "subscriptionId": "3457637531",
+    "skuId": "Google-Drive-storage-20GB",
+    "creationTime": "1641806573631",
+    "kind": "reseller#subscription",
+    "seats": {
+      "maximumNumberOfSeats": 1,
+      "licensedNumberOfSeats": 0,
+      "kind": "subscriptions#seats"
+    },
+    "status": "ACTIVE",
+    "resourceUiUrl": "https://admin.google.com/ac/billing/subscriptions?ecid=C03x621wx",
+    "billingMethod": "ONLINE",
+    "customerDomain": "pharmasolutions-int.com",
+    "skuName": "Google Drive storage 20 GB",
+    "plan": {
+      "planName": "FLEXIBLE",
+      "isCommitmentPlan": false
+    },
+    "trialSettings": {
+      "isInTrial": false
+    }
+  },
+  {
+    "customerId": "C03x621wx",
+    "subscriptionId": "3457637490",
+    "skuId": "Google-Drive-storage-2TB",
+    "creationTime": "1641806573579",
+    "kind": "reseller#subscription",
+    "seats": {
+      "maximumNumberOfSeats": 1,
+      "licensedNumberOfSeats": 0,
+      "kind": "subscriptions#seats"
+    },
+    "status": "ACTIVE",
+    "resourceUiUrl": "https://admin.google.com/ac/billing/subscriptions?ecid=C03x621wx",
+    "billingMethod": "ONLINE",
+    "customerDomain": "pharmasolutions-int.com",
+    "skuName": "Google Drive storage 2 TB",
+    "plan": {
+      "planName": "FLEXIBLE",
+      "isCommitmentPlan": false
+    },
+    "trialSettings": {
+      "isInTrial": false
+    }
+  },
+  {
+    "customerId": "C03x621wx",
+    "subscriptionId": "3457637627",
+    "skuId": "Google-Drive-storage-400GB",
+    "creationTime": "1641806573807",
+    "kind": "reseller#subscription",
+    "seats": {
+      "maximumNumberOfSeats": 1,
+      "licensedNumberOfSeats": 1,
+      "kind": "subscriptions#seats"
+    },
+    "status": "ACTIVE",
+    "resourceUiUrl": "https://admin.google.com/ac/billing/subscriptions?ecid=C03x621wx",
+    "billingMethod": "ONLINE",
+    "customerDomain": "pharmasolutions-int.com",
+    "skuName": "Google Drive storage 400 GB",
+    "plan": {
+      "planName": "FLEXIBLE",
+      "isCommitmentPlan": false
+    },
+    "trialSettings": {
+      "isInTrial": false
+    }
+  },
+  {
+    "customerId": "C03x621wx",
+    "subscriptionId": "3457637694",
+    "skuId": "Google-Drive-storage-4TB",
+    "creationTime": "1641806573946",
+    "kind": "reseller#subscription",
+    "seats": {
+      "maximumNumberOfSeats": 1,
+      "licensedNumberOfSeats": 0,
+      "kind": "subscriptions#seats"
+    },
+    "status": "ACTIVE",
+    "resourceUiUrl": "https://admin.google.com/ac/billing/subscriptions?ecid=C03x621wx",
+    "billingMethod": "ONLINE",
+    "customerDomain": "pharmasolutions-int.com",
+    "skuName": "Google Drive storage 4 TB",
+    "plan": {
+      "planName": "FLEXIBLE",
+      "isCommitmentPlan": false
+    },
+    "trialSettings": {
+      "isInTrial": false
+    }
+  },
+  {
+    "customerId": "C03x621wx",
+    "subscriptionId": "3457637563",
+    "skuId": "Google-Drive-storage-50GB",
+    "creationTime": "1641806573689",
+    "kind": "reseller#subscription",
+    "seats": {
+      "maximumNumberOfSeats": 1,
+      "licensedNumberOfSeats": 0,
+      "kind": "subscriptions#seats"
+    },
+    "status": "ACTIVE",
+    "resourceUiUrl": "https://admin.google.com/ac/billing/subscriptions?ecid=C03x621wx",
+    "billingMethod": "ONLINE",
+    "customerDomain": "pharmasolutions-int.com",
+    "skuName": "Google Drive storage 50 GB",
+    "plan": {
+      "planName": "FLEXIBLE",
+      "isCommitmentPlan": false
+    },
+    "trialSettings": {
+      "isInTrial": false
+    }
+  },
+  {
+    "customerId": "C03x621wx",
+    "subscriptionId": "3457637727",
+    "skuId": "Google-Drive-storage-8TB",
+    "creationTime": "1641806574002",
+    "kind": "reseller#subscription",
+    "seats": {
+      "maximumNumberOfSeats": 1,
+      "licensedNumberOfSeats": 0,
+      "kind": "subscriptions#seats"
+    },
+    "status": "ACTIVE",
+    "resourceUiUrl": "https://admin.google.com/ac/billing/subscriptions?ecid=C03x621wx",
+    "billingMethod": "ONLINE",
+    "customerDomain": "pharmasolutions-int.com",
+    "skuName": "Google Drive storage 8 TB",
+    "plan": {
+      "planName": "FLEXIBLE",
+      "isCommitmentPlan": false
+    },
+    "trialSettings": {
+      "isInTrial": false
+    }
+  },
+  {
+    "customerId": "C025pumdf",
+    "subscriptionId": "162763621",
+    "skuId": "Google-Apps-Unlimited",
+    "creationTime": "1498523240826",
+    "kind": "reseller#subscription",
+    "seats": {
+      "maximumNumberOfSeats": 24,
+      "licensedNumberOfSeats": 24,
+      "kind": "subscriptions#seats"
+    },
+    "status": "ACTIVE",
+    "resourceUiUrl": "https://admin.google.com/ac/billing/subscriptions?ecid=C025pumdf",
+    "billingMethod": "ONLINE",
+    "customerDomain": "resnetworld.com",
+    "skuName": "G Suite Business",
+    "plan": {
+      "planName": "FLEXIBLE",
+      "isCommitmentPlan": false
+    },
+    "trialSettings": {
+      "isInTrial": false
+    }
+  },
+  {
+    "customerId": "C03vrcw5n",
+    "subscriptionId": "2107104363",
+    "skuId": "Google-Apps-For-Business",
+    "creationTime": "1603444523441",
+    "kind": "reseller#subscription",
+    "seats": {
+      "maximumNumberOfSeats": 3,
+      "licensedNumberOfSeats": 3,
+      "kind": "subscriptions#seats"
+    },
+    "status": "ACTIVE",
+    "resourceUiUrl": "https://admin.google.com/ac/billing/subscriptions?ecid=C03vrcw5n",
+    "billingMethod": "ONLINE",
+    "customerDomain": "ferguae.org",
+    "skuName": "G Suite Basic",
+    "plan": {
+      "planName": "FLEXIBLE",
+      "isCommitmentPlan": false
+    },
+    "trialSettings": {
+      "isInTrial": false
+    }
+  },
+  {
+    "customerId": "C0217642k",
+    "subscriptionId": "97364743",
+    "skuId": "Google-Apps-For-Business",
+    "creationTime": "1494679746869",
+    "kind": "reseller#subscription",
+    "seats": {
+      "maximumNumberOfSeats": 2,
+      "licensedNumberOfSeats": 2,
+      "kind": "subscriptions#seats"
+    },
+    "status": "SUSPENDED",
+    "resourceUiUrl": "https://admin.google.com/ac/billing/subscriptions?ecid=C0217642k",
+    "billingMethod": "ONLINE",
+    "suspensionReasons": ["RESELLER_INITIATED"],
+    "customerDomain": "ghh-mail.com",
+    "skuName": "G Suite Basic",
+    "plan": {
+      "planName": "FLEXIBLE",
+      "isCommitmentPlan": false
+    },
+    "trialSettings": {
+      "isInTrial": false
+    }
+  },
+  {
+    "customerId": "C02a9525a",
+    "subscriptionId": "3443277226",
+    "skuId": "1010020027",
+    "creationTime": "1641367472184",
+    "kind": "reseller#subscription",
+    "seats": {
+      "numberOfSeats": 300,
+      "maximumNumberOfSeats": 10000000,
+      "licensedNumberOfSeats": 300,
+      "kind": "subscriptions#seats"
+    },
+    "renewalSettings": {
+      "renewalType": "AUTO_RENEW",
+      "kind": "subscriptions#renewalSettings"
+    },
+    "status": "ACTIVE",
+    "resourceUiUrl": "https://admin.google.com/ac/billing/subscriptions?ecid=C02a9525a",
+    "billingMethod": "OFFLINE",
+    "customerDomain": "freshalicious.in",
+    "skuName": "Google Workspace Business Starter",
+    "plan": {
+      "planName": "ANNUAL",
+      "isCommitmentPlan": true
+    },
+    "trialSettings": {
+      "isInTrial": false
+    }
+  },
+  {
+    "customerId": "C02a9525a",
+    "subscriptionId": "3443367502",
+    "skuId": "1010020026",
+    "creationTime": "1641367428469",
+    "kind": "reseller#subscription",
+    "seats": {
+      "numberOfSeats": 185,
+      "maximumNumberOfSeats": 10000000,
+      "licensedNumberOfSeats": 1,
+      "kind": "subscriptions#seats"
+    },
+    "renewalSettings": {
+      "renewalType": "AUTO_RENEW",
+      "kind": "subscriptions#renewalSettings"
+    },
+    "status": "ACTIVE",
+    "resourceUiUrl": "https://admin.google.com/ac/billing/subscriptions?ecid=C02a9525a",
+    "billingMethod": "OFFLINE",
+    "customerDomain": "freshalicious.in",
+    "skuName": "Google Workspace Enterprise Standard",
+    "plan": {
+      "planName": "ANNUAL",
+      "isCommitmentPlan": true
+    },
+    "trialSettings": {
+      "isInTrial": false
+    }
+  },
+  {
+    "customerId": "C02a9525a",
+    "subscriptionId": "3739396120",
+    "skuId": "1010020029",
+    "creationTime": "1649778901867",
+    "kind": "reseller#subscription",
+    "seats": {
+      "numberOfSeats": 205,
+      "maximumNumberOfSeats": 10000000,
+      "licensedNumberOfSeats": 183,
+      "kind": "subscriptions#seats"
+    },
+    "renewalSettings": {
+      "renewalType": "AUTO_RENEW",
+      "kind": "subscriptions#renewalSettings"
+    },
+    "status": "ACTIVE",
+    "resourceUiUrl": "https://admin.google.com/ac/billing/subscriptions?ecid=C02a9525a",
+    "billingMethod": "OFFLINE",
+    "customerDomain": "freshalicious.in",
+    "skuName": "Google Workspace Enterprise Starter",
+    "plan": {
+      "planName": "ANNUAL",
+      "isCommitmentPlan": true
+    },
+    "trialSettings": {
+      "isInTrial": false
+    }
+  },
+  {
+    "customerId": "C035e6t8p",
+    "subscriptionId": "3371735374",
+    "skuId": "1010020027",
+    "creationTime": "1638956330700",
+    "kind": "reseller#subscription",
+    "seats": {
+      "maximumNumberOfSeats": 300,
+      "licensedNumberOfSeats": 8,
+      "kind": "subscriptions#seats"
+    },
+    "status": "ACTIVE",
+    "resourceUiUrl": "https://admin.google.com/ac/billing/subscriptions?ecid=C035e6t8p",
+    "billingMethod": "ONLINE",
+    "customerDomain": "investouae.com",
+    "skuName": "Google Workspace Business Starter",
+    "plan": {
+      "planName": "FLEXIBLE",
+      "isCommitmentPlan": false
+    },
+    "trialSettings": {
+      "isInTrial": false
+    }
+  }
 ]
